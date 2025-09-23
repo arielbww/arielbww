@@ -19,7 +19,7 @@
 
 * ✏️ Exercícios de Python (em andamento)
 * 🌱 Pequenos projetos de front-end para prática
-* 🗿 Pequeno projeto utilizando PHP para o back-end e HTML e CSS
+* 🗿 Pequeno projeto utilizando PHP para o back-end e HTML & CSS para o front-end                                                                                                                                                                                                    
 
 ---
 
