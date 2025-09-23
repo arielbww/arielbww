@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ariel Nunes
 
 💻 Estudante de **Sistemas de Informação** (2º semestre)  
-🌱 Atualmente aprendendo **Python, HTML e CSS**  
+🌱 Atualmente aprendendo **Python, PHP, HTML e CSS**  
 🎯 Objetivo: evoluir minhas habilidades para me tornar desenvolvedor **Full-Stack**  
 
 ---
@@ -17,10 +17,9 @@
 
 ## 📂 Projetos de Estudo
 
-* 🎯 Formulário de Cadastro de Clientes (HTML/CSS)
 * ✏️ Exercícios de Python (em andamento)
 * 🌱 Pequenos projetos de front-end para prática
-
+* 🗿 Pequeno projeto utilizando PHP para o back-end e HTML e CSS
 
 ---
 
