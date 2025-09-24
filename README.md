@@ -9,6 +9,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 * 🐍 Python
+* 🐘 PHP
 * 🎨 HTML & CSS
 * 🌐 Conceitos de Git e GitHub
 * 🔧 Próximos passos: aprender JavaScript e frameworks como Flask/Django
